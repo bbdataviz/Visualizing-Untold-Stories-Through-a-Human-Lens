@@ -14,6 +14,16 @@ With this project, I could experiment with data visualization metaphors and rais
 
 --- 
 
+## 🔬 Research and Data Exploration
+
+As part of the project, exploratory analysis was conducted on subsets of MoBa data to investigate whether selected side symptoms differed between women affected by nausea and vomiting during pregnancy and those without symptoms.
+
+The project development involved regular discussions with a bioinformatics researcher to better understand the medical and analytical context of the data.
+
+The exploratory work and visualization concepts contributed to ideas that later became part of a multi-year research grant related to Hyperemesis gravidarum research.
+
+---
+
 ## ✨ Features
 
 - Interactive D3.js-based data visualizations
@@ -31,25 +41,31 @@ With this project, I could experiment with data visualization metaphors and rais
 ## 📸 Narrative Comparison
 
 ### Narrative Introduction
-| Individual Perspective | General Perspective |
+| Individual Perspective | Collective Perspective |
 |---|---|
-| ![Illustration of the protagonist vs. ](img1-1.png) | ![](img2-1.png) |
+| ![Protagonist illustration](./screenshots/img1-1.png) | ![Infographic showing prevalence](./screenshots/img2-1.png) |
+| Personal narrative introduction | Statistical introduction to HG prevalence |
 
-### Conflict with the Disease
-| Individual Perspective | General Perspective |
+### Conflict and Disease Experience
+
+| Individual Perspective | Collective Perspective |
 |---|---|
-| ![](img1-2.png) | ![](img2-2.png) |
+| ![Protagonist drowning in the ocean](./screenshots/img1-2.png) | ![Ambulance emergency](./screenshots/img2-2.png) |
+| Emotional burden visualized through metaphor | Clinical emergency framing |
 
 ### Data Visualization
-| Individual Perspective | General Perspective |
+
+| Individual Perspective | Collective Perspective |
 |---|---|
-| ![](img1-3.png) | ![](img2-3.png) |
+| ![Personalized data visualization with quotes from the protagonist](./screenshots/img1-3.png) | ![Data visualization with quotes from multiple women](./screenshots/img2-3.png) |
+| Visualization combined with an individual narrative voice | Visualization using collective patient experiences |
 
 ### Resolution
-| Individual Perspective | General Perspective |
-|---|---|
-| ![](img1-4.png) | ![](img2-4.png) |
 
+| Individual Perspective | Collective Perspective |
+|---|---|
+| ![Protagonist reflecting on motherhood](./screenshots/img1-4.png) | ![Illustrated reflection and summary](./screenshots/img2-4.png) |
+| Personal reflection and resolution | Collective reflection and summary |
 
 ---
 
