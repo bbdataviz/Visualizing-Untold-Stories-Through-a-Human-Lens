@@ -71,7 +71,10 @@ The exploratory work and visualization concepts contributed to ideas that later 
 
 ## 🧬 MoBa Data Availability
 
-Data from the Norwegian Mother, Father and Child Cohort Study used in this study are managed by the Norwegian Institute of Public Health and can be made available to researchers, provided approval from the Regional Committees for Medical and Health Research Ethics (REC), compliance with the EU General Data Protection Regulation (GDPR), and approval from the data owners. The consent given by the participants does not allow for the storage of data on an individual level in repositories or journals. Researchers who want access to data sets for replication should apply through helsedata.no. Access to data sets requires approval from the Regional Committee for Medical and Health Research Ethics in Norway and an agreement with MoBa.
+Data from the Norwegian Mother, Father and Child Cohort Study (MoBa) are managed by the Norwegian Institute of Public Health and are subject to ethical approval and GDPR regulations.
+
+Due to participant privacy restrictions, the dataset cannot be publicly redistributed. Researchers seeking access must apply through the Norwegian health data services platform and obtain approval from the appropriate ethics committees and data owners.
+
 
 Links: [MoBa – Norwegian Mother, Father and Child Cohort Study](https://www.fhi.no/en/ch/studies/moba/)
 
