@@ -26,15 +26,15 @@ The exploratory work and visualization concepts contributed to ideas that later 
 
 ## ✨ Features
 
-- Interactive D3.js-based data visualizations
-- Incremental chart construction and guided narrative flow
-- Animated focus transitions for small-scale data patterns
-- Illustration-driven UI with interactive quote elements
-- Dual narrative perspectives:
+- interactive D3.js-based data visualizations
+- incremental chart construction and guided narrative flow
+- animated focus transitions for small-scale data patterns
+- illustration-driven UI with interactive quote elements
+- dual narrative perspectives:
  - an individual story centered around a human protagonist
  - a neutral, generalized data-driven perspective
-- Iceberg metaphor for communicating visible and hidden aspects of disease experiences
-- Responsive visual hierarchy and typography integration
+- iceberg metaphor for communicating visible and hidden aspects of disease experiences
+- responsive visual hierarchy and typography integration
 
 ---
 
@@ -115,11 +115,11 @@ This project gave me practical experience with:
 
 ## 🔭 Future Improvements
 
-- Refactoring the project into a React-based architecture
-- Creating reusable visualization and UI components
-- Reducing code redundancy and improving maintainability
-- Improving responsiveness across device sizes
-- Enhancing accessibility and interaction patterns
+- refactoring the project into a React-based architecture
+- creating reusable visualization and UI components
+- reducing code redundancy and improving maintainability
+- improving responsiveness across device sizes
+- enhancing accessibility and interaction patterns
 
 ---
 
