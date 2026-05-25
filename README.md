@@ -10,7 +10,7 @@ The project focuses on Hyperemesis gravidarum (HG), a severe pregnancy condition
 
 This project explores how interactive visualization and storytelling can communicate personal experiences behind medical data.
 
-With this project, I could experiment with data visualization metaphors and raise awareness of a disease that is often unknown or misundertood.
+Through this project, I had the opportunity to experiment with data visualization metaphors and raise awareness of a disease that is often overlooked or mistaken for normal pregnancy nausea.
 
 --- 
 
