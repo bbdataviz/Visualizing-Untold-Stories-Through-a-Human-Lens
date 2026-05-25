@@ -58,7 +58,7 @@ The exploratory work and visualization concepts contributed to ideas that later 
 | Individual Perspective | Collective Perspective |
 |---|---|
 | ![Personalized data visualization with quotes from the protagonist](./screenshots/img1-3.png) | ![Data visualization with quotes from multiple women](./screenshots/img2-3.png) |
-| Visualization combined with an individual narrative voice | Visualization using collective patient experiences |
+| Visualization combined with an individual voice | Visualization using collective patient experiences |
 
 ### Resolution
 
