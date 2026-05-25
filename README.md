@@ -28,15 +28,27 @@ With this project, I could experiment with data visualization metaphors and rais
 
 ---
 
-## 📸 Preview
+## 📸 Narrative Comparison
 
 ### Narrative Introduction
+| Individual Perspective | General Perspective |
+|---|---|
+| ![Illustration of the protagonist vs. ](img1-1.png) | ![](img2-1.png) |
 
-![...](...)
+### Conflict with the Disease
+| Individual Perspective | General Perspective |
+|---|---|
+| ![](img1-2.png) | ![](img2-2.png) |
 
-### Data Visualization Part
+### Data Visualization
+| Individual Perspective | General Perspective |
+|---|---|
+| ![](img1-3.png) | ![](img2-3.png) |
 
-![...](...)
+### Resolution
+| Individual Perspective | General Perspective |
+|---|---|
+| ![](img1-4.png) | ![](img2-4.png) |
 
 
 ---
