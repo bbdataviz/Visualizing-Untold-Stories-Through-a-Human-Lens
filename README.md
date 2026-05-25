@@ -82,10 +82,10 @@ Links: [MoBa – Norwegian Mother, Father and Child Cohort Study](https://www.fh
 
 ## 🛠 Tech Stack
 
+- D3.js
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
-- D3.js
 
 ---
 
