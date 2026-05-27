@@ -41,6 +41,7 @@ The exploratory work and visualization concepts contributed to ideas that later 
 ## 📸 Narrative Comparison
 
 ### Narrative Introduction
+
 | Individual Perspective | Collective Perspective |
 |---|---|
 | ![Protagonist illustration](./screenshots/img1-1.png) | ![Infographic showing prevalence](./screenshots/img2-1.png) |
