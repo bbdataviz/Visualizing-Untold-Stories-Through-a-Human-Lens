@@ -91,6 +91,7 @@ Links: [MoBa – Norwegian Mother, Father and Child Cohort Study](https://www.fh
 ---
 
 ## 📊 Repository Contents
+```
 /data
 /data_exploration
 /prototypes
@@ -101,7 +102,7 @@ Links: [MoBa – Norwegian Mother, Father and Child Cohort Study](https://www.fh
   /js
   /svg
 /screenshots
-
+```
 ---
 
 ## 🎨 Design Notes
