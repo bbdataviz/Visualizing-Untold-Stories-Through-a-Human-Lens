@@ -90,6 +90,20 @@ Links: [MoBa – Norwegian Mother, Father and Child Cohort Study](https://www.fh
 
 ---
 
+## 📊 Repository Contents
+/data
+/data_exploration
+/prototypes
+ /general_story
+  /js
+  /svg
+ /individual_story
+  /js
+  /svg
+/screenshots
+
+---
+
 ## 🎨 Design Notes
 
 The UI combines data visualization with vector illustration to increase emotional engagement.
